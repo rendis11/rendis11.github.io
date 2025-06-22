@@ -1,4 +1,3 @@
-# alanymous00.github.io
-Website Portofolio Pribadi. oleh Alan Maulana
-
+# portofolioku.github.io
+Website Portofolio Pribadi. oleh Rendis Arfendo
 Website berisi Portfolio untuk kebutuhan dokumentasi
