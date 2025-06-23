@@ -1,7 +1,3 @@
-# portofolioku.github.io
-<<<<<<< HEAD
-
-=======
->>>>>>> ca0b1e922f4f69a614802d02cdf085071111991e
+https://rendis11.github.io
 Website Portofolio Pribadi. oleh Rendis Arfendo
 Website berisi Portfolio untuk kebutuhan dokumentasi
